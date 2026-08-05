@@ -1,4 +1,4 @@
-module codeberg.org/v0idn1x/valkeystore
+module github.com/AiEmStylix/valkeystore
 
 go 1.25.0
 
