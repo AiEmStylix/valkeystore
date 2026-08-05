@@ -1,6 +1,6 @@
 # valkeystore
 
-A [valkey-go](https://github.com/redis/rueidis) bases session store for [scs](https://github.com/alexedwards/scs)
+A [valkey-go](https://github.com/valkey-io/valkey-go) bases session store for [scs](https://github.com/alexedwards/scs)
 
 ## Setup
 
